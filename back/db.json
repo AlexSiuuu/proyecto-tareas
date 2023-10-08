@@ -1,0 +1,67 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Alex",
+      "nombreUsuario": "AlexSiuuu",
+      "email": "alex@alex.com",
+      "password": "77889910"
+    },
+    {
+      "id": 2,
+      "nombre": "Luna",
+      "nombreUsuario": "LunaLinda",
+      "email": "luna@luna.com",
+      "password": "kakakakak"
+    },
+    {
+      "id": 3,
+      "nombre": "Mike",
+      "nombreUsuario": "MikeLOL",
+      "email": "mike2006@gmail.com",
+      "password": "mike10"
+    },
+    {
+      "id": 4,
+      "nombre": "Jhon",
+      "nombreUsuario": "JhonRAR",
+      "email": "jhonkaska@gmail.com",
+      "password": "78233623833681838"
+    },
+    {
+      "id": 5,
+      "nombre": "Karen",
+      "nombreUsuario": "KarenRojas",
+      "email": "karen45@gmail.com",
+      "password": "karensita123"
+    },
+    {
+      "id": 6,
+      "nombre": "Maria",
+      "nombreUsuario": "mariaMaria",
+      "email": "mariiii@gmail.com",
+      "password": "maryluz123"
+    },
+    {
+      "id": 7,
+      "nombre": "Juan",
+      "nombreUsuario": "juancarcar",
+      "email": "juanCar@gmail.com",
+      "password": "88588888"
+    },
+    {
+      "id": 8,
+      "nombre": "Jose",
+      "nombreUsuario": "joseSiuuu",
+      "email": "joseOnu@gmail.com",
+      "password": "78318238328jose"
+    },
+    {
+      "id": 9,
+      "nombre": "Juan",
+      "nombreUsuario": "juanRuiz1",
+      "email": "juanRuiz123@gmail.com",
+      "password": "783juan"
+    }
+  ]
+}
