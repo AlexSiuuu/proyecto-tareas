@@ -62,6 +62,13 @@
       "nombreUsuario": "juanRuiz1",
       "email": "juanRuiz123@gmail.com",
       "password": "783juan"
+    },
+    {
+      "nombre": "oscar",
+      "nombreUsuario": "oscarOsito",
+      "email": "oscar@gmail.com",
+      "password": "oscar123",
+      "id": 10
     }
   ]
 }

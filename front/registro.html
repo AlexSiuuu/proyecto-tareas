@@ -27,23 +27,23 @@
 
             <div class="formulario-registro">
 
-                <form>
+                <form name="form">
                 
                     <h1 class='titulo-login'>Registrate</h1><br />
 
                     <label class='nombre-usuario'>Ingrese su Nombre:</label>
-                    <input class='campo-usuario' type="text"/><br />
+                    <input name="nombre" class='campo-usuario' type="text"/><br />
                                     
                     <label class='nombre-usuario'>Nombre de Usuario:</label>
-                    <input class='campo-usuario' type="text" /><br />
+                    <input name='usuario' class='campo-usuario' type="text" /><br />
 
                     <label class='nombre-usuario'>Ingrese su Correo:</label>
-                    <input class='campo-usuario' type="text"/><br />
+                    <input name="correo" class='campo-usuario' type="text"/><br />
                                     
                     <label class='nombre-usuario'>Ingrese Contraseña:</label>
-                    <input class='campo-usuario' type="password" /><br />
+                    <input name="password" class='campo-usuario' type="password" /><br />
 
-                    <center><button class='boton-login'>Registrarme</button></center>
+                    <center><button type="submit" class='boton-login'>Registrarme</button></center>
 
                 </form>
             </div>
@@ -53,6 +53,8 @@
         
 
     </div>
+    
+    <script src="js/ajax.js"></script>
 
     
 </body>
