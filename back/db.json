@@ -69,6 +69,20 @@
       "email": "oscar@gmail.com",
       "password": "oscar123",
       "id": 10
+    },
+    {
+      "nombre": "karen",
+      "usuario": "karenTutu",
+      "correo": "karen@gmail.com",
+      "password": "karen123",
+      "id": 11
+    },
+    {
+      "nombre": "albeiro",
+      "usuario": "albeirsos",
+      "correo": "albe@gmail.com",
+      "password": "alberalber",
+      "id": 12
     }
   ]
 }
